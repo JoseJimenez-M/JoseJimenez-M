@@ -1,6 +1,10 @@
 ## 👋 Hey there! I'm Jose
 
 <p align="center">
+  <img src="./banner-github.png" alt="Jos3_Jm Banner" />
+</p>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=435&lines=Writing+code+is+like+writing+poetry;...but+with+more+coffee" alt="Typing SVG" /></p>
 
 I'm a graduate of *Programming and Data Analysis* from LaSalle College in Montreal, and I'm passionate about everything tech. I love building things from scratch, solving problems with code, and working with data.
