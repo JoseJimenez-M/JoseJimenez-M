@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=Jose+Jimenez+%E2%80%A2+Full+Stack+Developer+%F0%9F%92%BB;Linux+enthusiast+%E2%80%A2+DevOps+%E2%80%A2+Cybersecurity+%F0%9F%90%A7;Trilingual%3A+EN+%E2%80%A2+FR+%E2%80%A2+ES+%F0%9F%8C%8E;Preparing+for+the+LFCS+%F0%9F%8E%93;Retro+%E2%80%94+Music+%E2%80%94+Vibe+%E2%80%94+Chill+%E2%80%94+Tech" alt="Jose Jimenez, Full Stack Developer"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=JoseJimenez-M&style=flat&color=f78ca0&label=profile+views" alt="profile views"/>
-
 </div>
 
 ---
